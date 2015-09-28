@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: consultation.jpg
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Consultation
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+You may be starting a new project, or may just be curious about a particular tool or method for your research or teaching -- library specialists in Digital Scholarship Services are available for consultations to help you get started.  [Contact us](https://www.library.pitt.edu/askalibrarian) to make an appointment, or stop by our office space in Hillman Library. 

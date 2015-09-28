@@ -1,8 +1,8 @@
 ---
 layout: default
-img: phones.png
+img: training.jpg
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Training
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+The ULS has partnered with faculty and doctoral students from the School of Information Science to present a [recurring workshop series](https://www.library.pitt.edu/workshops-tours) exploring the topics and tools of digital scholarship.  A new round of workshops is scheduled every fall and spring term, but training is also available on-demand, or through scheduled consultations at any time.
