@@ -1,0 +1,9 @@
+---
+layout: default
+img: implementation.gif
+category: Services
+title: Implementation
+description: |
+published: false
+---
+This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).

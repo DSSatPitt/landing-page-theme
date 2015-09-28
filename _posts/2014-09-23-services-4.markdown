@@ -1,0 +1,8 @@
+---
+layout: default
+img: stewardship.jpg
+category: Services
+title: Stewardship
+description: |
+---
+Ensuring the long-term survival and accessibility of your digital scholarship is not always a simple task: formats and platforms change, and data must be well-described and managed to be understood by others.  Expertise in digital stewardship is a natural extension of the library's role of curating and stewarding information; we provide guidance and support with a special focus on digital modes of scholarship. 
